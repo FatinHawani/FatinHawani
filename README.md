@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my degree in Bch of Software Engineering, hopefully can finish it ASAP 
-- 🌱 I’m currently interested in learning Python, Java and Go. Why? money is the passion babeh
+- 🌱 I’m currently interested in learning Python, Java and Go.
+- Vibe coding ?
 
 hehe that's all for now
 
